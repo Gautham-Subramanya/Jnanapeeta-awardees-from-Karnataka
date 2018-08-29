@@ -23,7 +23,7 @@ ul.navigation {
     margin: 0;
     padding: 10px;
     overflow: auto;
-    background-color:black;
+    background-image: linear-gradient(yellow, red);
     text-align:center;
     width:100%;
     top:0;
@@ -47,7 +47,7 @@ ul.navigation li a {
 
 /*When hovered over the elemnts in the navigation bar*/
 ul.navigation li a:hover {
-    background-color: blue;
+    background-color: #bb0000;
 }
 
 
@@ -65,7 +65,7 @@ ul.navigation li a:hover {
     text-align: center;
     position: absolute;
     overflow: hidden;
-    top: 50%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Slabo 27px', serif;
