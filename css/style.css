@@ -47,7 +47,7 @@ ul.navigation li a {
 
 /*When hovered over the elemnts in the navigation bar*/
 ul.navigation li a:hover {
-    background-color: #bb0000;
+    background-color: #b31010;
 }
 
 
@@ -70,7 +70,7 @@ ul.navigation li a:hover {
     transform: translate(-50%, -50%);
     font-family: 'Slabo 27px', serif;
     color:white;
-    font-size: 50px; 
+    font-size: 40px; 
 }
 
 /*To dispalythe navigation bar elements one below another*/
