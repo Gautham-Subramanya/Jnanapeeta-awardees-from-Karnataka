@@ -151,14 +151,6 @@ background: #bb0000;
 color: white;
 }
 
-/* Responsive layout - makes a two column-layout instead of three columns */
-/* @media (max-width: 900px) {
-    .column {
-        flex: 50%;
-        max-width: 50%;
-    }
-} */
-
 
 /*To dispaly the navigation bar elements one below another*/
 @media (max-width: 650px){
