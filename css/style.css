@@ -47,7 +47,7 @@ ul.navigation li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 10px 10px;
+    padding: 10px 20px;
     text-decoration: none;
 }
 
@@ -90,8 +90,6 @@ ul.navigation li a:hover {
 
 /* Create three equal columns that sits next to each other */
  .column {
-    /* flex: 33.3%;
-    max-width: 33.3%; */
     width:33.3%;
     padding: 0 10px;
 }
@@ -175,6 +173,7 @@ color: white;
     }
 }
 
+/*To change the image size when the screen shrinks*/
 @media (max-width: 415px){
     .column img {
         height: 250px;
